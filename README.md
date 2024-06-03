@@ -1,4 +1,4 @@
-# meta-dementia-proteomics
+# meta-brain-disease-proteomics
 Dementia subtypes and Motor Neuron Disease meta-analysis with proteomics data.
 
 [Dementia subtypes](https://www.ncbi.nlm.nih.gov/mesh/68003704) (following MeSH headings from NCBI)
